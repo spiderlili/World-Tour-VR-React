@@ -1,2 +1,2 @@
 # World-Tour-VR-React
-VR World Tour with 360 Panoramas(made with React)
+ReactVR world tour web app with 360 Panoramas
